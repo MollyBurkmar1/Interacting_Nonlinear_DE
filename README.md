@@ -10,7 +10,7 @@ git config --local core.hooksPath .githooks/
 
 ## Analysis
 
-The analysis in this notebook is used in the following paper:
+The analysis in this notebook is used in the following paper: https://arxiv.org/abs/2504.01683
 
 In this notebook, we analyse a system of ordinary differential equations describing pressureless dark matter interacting with dark energy with a quadratic equation of state. The aim of this analysis is to understand whether there are parameter ranges for which all trajectories in the phase space are non-singular, and have a decelerated period followed by a late-time acceleration during expansion.
 
